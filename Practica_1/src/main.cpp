@@ -3,8 +3,8 @@
 #include <ESP8266WebServer.h>
 
 //Credenciales de la red local
-const char* ssid = "SAYAYINES";
-const char* password = "jhaider0123";
+const char* ssid = "****";
+const char* password = "****";
 
 //Se asigna pin D0=16
 int pinD0Led = 16;
