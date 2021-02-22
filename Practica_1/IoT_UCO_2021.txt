@@ -1,1 +1,1 @@
-Hola
+print("Hola")
